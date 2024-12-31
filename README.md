@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahmoud Samaha
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Data science and ML
 - 💞️ I’m looking to collaborate on Full Stack projects
 - 📫 You can reach me on mhmood.hmmam@gmail.com
